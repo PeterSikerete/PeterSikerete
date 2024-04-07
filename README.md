@@ -1,8 +1,7 @@
-- 👋 Hello, I’m PeterSikerete
-- 👀 I’m interested in JavaScript , Java ,HTML,PHP,Julia & Ballerina programing.
-- 🌱 I’m currently learning ballerina
-- 💞️ I’m looking to collaborate on html.
-- 📫 You can contact me at mzeesikerete3@gmail.com
+👋 Hello, I’m Peter Sikerete, a passionate programmer with interests spanning JavaScript, Java, HTML, PHP, Julia, and Ballerina programming languages. Currently delving into Ballerina, I'm always eager to expand my knowledge and skill set. I'm particularly keen on collaborating on HTML projects. Feel free to reach out to me at mzeesikerete3@gmail.com to discuss any opportunities or ideas.
+
+
+
 
 <!---
 PeterSikerete/PeterSikerete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
